@@ -1,4 +1,4 @@
-Hi, my name is Philip Hamelink and I come from Geneva, Switzerland. I'm 22 years old and I am currently studying for my third year of Bachelor studies in communications systems at EPFL.
+Hi, my name is Philip Hamelink and I come from Geneva, Switzerland. I'm 23 years old and I currently have a Bachelor in communications systems at EPFL.
 My interests include IoT, web development (full-stack), ethical hacking and cryptography, which I plan on studying during my Master.
 
 My repositories all contain small projects I did in my own free time or during my studies at EPFL. All code is strictly my own or co-authored with classmates.
